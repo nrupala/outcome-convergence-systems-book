@@ -122,6 +122,16 @@ Power-system operational scenarios are iterated forecasting loops run daily, whi
 - **Load dispatch** — the dispatch decision re-converged on every cycle, against fresh evidence.
 - **Capacity planning** — the long-horizon form: infrastructure committed against forecasts whose requirement influx and customer adaptability decide whether the capacity was right.
 
+### 4.7 The human domain: judgment, decision-making, thinking, ideation
+
+*Pointer — depth forthcoming. The boundary below is part of the topic, not an afterthought.*
+
+Convergence applied to improving your own judgment, decision-making, thinking and ideation processes as a human being — how to train yourself to do it right — learnable through pointers coming out of the convergence mapping tools. If the framework describes how decisions converge in systems, this domain asks what the same discipline means for the person making them: the decision-maker is also an observer, and an observer must converge too.
+
+**Boundary — stated by the author, and binding on everything written here.** This domain is held strictly as a **topic of interest and research**. It is **not** a psychology topic, and it will not be touched as one. As soon as a subject concerns human life, mind and body, regulations come into effect — so proper disclaimers must be in place for anything written on this topic, and they are:
+
+> **Disclaimer.** Material in this domain is educational and research material about decision-making and thinking *processes*, expressed in the language of the convergence framework. It is not psychology, not medicine, and not therapy. It makes no psychological, medical or therapeutic claims, offers no diagnosis or treatment, and is not a substitute for professional advice in any of those fields.
+
 ---
 
 ## 5. How this atlas grows
